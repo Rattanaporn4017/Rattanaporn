@@ -1,18 +1,27 @@
-👋 สวัสดีครับ
+# 👋 สวัสดีครับ
 
-นางสาว รัตนาพร วงษาเวียง
+## นางสาว รัตนาพร วงษาเวียง
 
 🎓 Computer Business Program, Mahasarakham University
 
-💻 Skills
+---
+
+## 💻 Skills
+
 - HTML
 - Canva
 - Python
 
-📂 Projects
+---
+
+## 📂 Projects
+
 - Portfolio Website
 - Football News Website
 - ERP Project
 
-📫 Contact
+---
+
+## 📫 Contact
+
 - GitHub: https://github.com/Rattanaporn4017
